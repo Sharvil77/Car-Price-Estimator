@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Using Random forest regression with deployment.
+Using Random forest regression with Procfile for deployment.
